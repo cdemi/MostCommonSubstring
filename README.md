@@ -21,3 +21,6 @@ Given an input string of size `N`, return the number of occurrences of the most 
  ```
  1
  ```
+
+ ## Solution
+ The solution is located in [MostCommonSubstring/Program.cs](MostCommonSubstring/Program.cs)
