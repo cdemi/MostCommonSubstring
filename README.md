@@ -2,7 +2,7 @@
 My solution to the Most Common Substring problem.
 
 ## Problem
-Given an input string of size `N`, return the number of occurrences of the most common substring between lengths `K` and `K`
+Given an input string of size `N`, return the number of occurrences of the most common substring between lengths `K` and `L`
 
 ## Input
  * The first line contains an integer `N`.
