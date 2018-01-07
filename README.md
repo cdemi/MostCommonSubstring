@@ -23,4 +23,4 @@ Given an input string of size `N`, return the number of occurrences of the most 
  ```
 
  ## Solution
- The solution is located in [MostCommonSubstring/Program.cs](MostCommonSubstring/Program.cs)
+ The solution is located in [MostCommonSubstring/Program.cs](MostCommonSubstring/Program.cs#L15)
